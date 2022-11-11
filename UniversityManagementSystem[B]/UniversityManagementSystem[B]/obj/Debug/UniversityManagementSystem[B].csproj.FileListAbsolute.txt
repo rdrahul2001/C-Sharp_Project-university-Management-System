@@ -1,0 +1,15 @@
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\bin\Debug\UniversityManagementSystem[B].exe.config
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\bin\Debug\UniversityManagementSystem[B].exe
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\bin\Debug\UniversityManagementSystem[B].pdb
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem[B].csproj.AssemblyReference.cache
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.Dashboard.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.Login.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.MainForm.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.Properties.Resources.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.Student.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.Teacher.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem_B_.User.resources
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem[B].csproj.GenerateResource.cache
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem[B].csproj.CoreCompileInputs.cache
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem[B].exe
+F:\New folder (2)\UniversityManagementSystem[B]\UniversityManagementSystem[B]\obj\Debug\UniversityManagementSystem[B].pdb
